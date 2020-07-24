@@ -1,0 +1,17 @@
+#steps to develope basic data analytics / ML environment with Jupyter Notebook.
+
+Install Python as per requirement (python above 3 already includes the path) if not then
+Add path :- find the location of the folder where python is installed. Paste the location on Environment variables.
+Open CMD as administrator 
+
+#if pip is not installed 
+open cmd as admin. type python get-pip.py
+then add the pip folder path also to Environment variables also.
+
+*jupyter installation* - pip install notebook
+
+*pandas installation* - pip install pandas 
+
+*matplotlib installation* - python -m pip install -U matplotlib
+
+*sklearn installation* - pip3 install -U scikit-learn scipy matplotlib
